@@ -1,2 +1,2 @@
 # Voice-ML
-ML that works with voices
+A model that works with voices
