@@ -1,2 +1,3 @@
 # Voice-ML
-A model that works with voices
+A model that extracts voice features
+
